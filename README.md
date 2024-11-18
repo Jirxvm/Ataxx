@@ -4,7 +4,7 @@ A modular board game application inspired by the strategic game Ataxx, featuring
 
 ## Features
 
-* Interactive Gameplay: Play against an AI or a human opponent via GUI or CLI.
+* Interactive Gameplay: Play against an AI or a human opponent via GUI or CLI(command line interface).
 * AI-Powered Opponent: Implements the Minimax algorithm with Alpha-Beta pruning for intelligent decision-making under computational constraints.
 * Customizable Board: Includes options for setting up blocks, configuring player types (AI or manual), and restarting games.
 * Command-Based Interactions: Supports command-line inputs for moves, undo, and game management.
